@@ -1,0 +1,38 @@
+.description-container {
+    margin-top: 20px;
+  }
+  
+  .description-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .description-content {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .description-section {
+    margin-top: 20px;
+  }
+  
+  .director-info {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  .director-info-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .director-info-list {
+    margin-left: 20px;
+  }
+  
+  .director-info-item {
+    margin-bottom: 5px;
+  }
+  
